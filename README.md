@@ -10,7 +10,6 @@
 
 - 作者：**YaoEIF**
 - 主页：https://github.com/YaoGuaiLi/weibo-cli-mcp-safe-operations
-- 邮箱：yaoguaili@foxmail.com
 
 ## 功能与边界
 
